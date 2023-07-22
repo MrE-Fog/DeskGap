@@ -15,7 +15,7 @@
     "is-elevated": "^3.0.0",
     "json-talk": "^0.1.1",
     "koa": "^2.11.0",
-    "mocha": "^6.2.2",
+    "mocha": "^6.2.3",
     "node-addon-api": "^1.7.1",
     "raw-loader": "^4.0.0",
     "ts-loader": "^6.2.1",
